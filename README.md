@@ -1,24 +1,15 @@
-# README
+*Ruby on Railsについて
+migrationファイル(カラムのtypeや各種optionの意味)
+modelファイル(各モデルのリレーションやバリデーション、クラスメソッドやインスタンスメソッドの違いなど)
+routesファイル(REST APIにおけるURLの決め方など)
+seedを使った初期データの投入
+APIモードにおけるcontroller
+cors
+TDD
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+*Reactについて
+Functional Component
+axiosを使ったAPI通信のためのモジュールの定義方法
+Atomic Componentに沿ったコンポーネント設計、ディレクトリ構成
+useEffect, useState, useReducerなどのHooks
+React Router
